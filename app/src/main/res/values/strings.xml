@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniExercise1</string>
+    <string name="screen_one">Screen One</string>
+    <string name="screen_two">Screen Two</string>
+    <string name="screen_three">Screen Three</string>
+    <string name="captain_meliodas">captain meliodas</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="escanor">Escanor</string>
+    <string name="ban">ban</string>
+</resources>
